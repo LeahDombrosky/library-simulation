@@ -1,0 +1,29 @@
+/* body {
+  background-color: #4e1e29;
+} */
+
+.Auth-Container {
+  justify-content: flex-start;
+  align-items: center;
+}
+.GrayBox {
+  background-color: #c6b38e;
+  height: 800px;
+  width: 1200px;
+  justify-items: center;
+  align-items: center;
+  /* padding-top: 200px; */
+  padding-left: 500px;
+}
+.BlackBox {
+  background-color: black;
+  height: 400px;
+  width: 800px;
+  border-radius: 10px;
+}
+.Image {
+  background-image: url("../../assets/tan-logo.svg");
+}
+label {
+  color: white;
+}

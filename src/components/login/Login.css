@@ -1,0 +1,17 @@
+body {
+  background-color: #4e1e29;
+}
+.GrayBox {
+  background-color: #c6b38e;
+  height: 800px;
+  width: 2000px;
+  justify-self: center;
+  padding-top: 200px;
+  padding-left: 200px;
+}
+.BlackBox {
+  background-color: black;
+  height: 400px;
+  width: 800px;
+  border-radius: 10px;
+}
